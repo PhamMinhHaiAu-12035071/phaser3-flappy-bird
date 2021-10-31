@@ -46,5 +46,5 @@ Notable forks
 
 Demo
 ----------
-
+![demo](demo/demo.gif)
 
